@@ -316,7 +316,7 @@ def DDPG_Example():
                                gamma=float(GAMMA),
                                num_actor_vars=actor.get_num_trainable_vars())
 
-        train(sess, env, actor, critic, actor_noise, load_weights=True)
+        train(sess, env, actor, critic, actor_noise, load_weights=False)
 
 
 if __name__ == "__main__":

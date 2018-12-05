@@ -14,3 +14,9 @@ Before training:
 
 After 1.5m steps
 ![image](https://github.com/sino30535/DeepRL-minitaur/blob/master/misc/after_training.gif)
+
+Average qmax value for episodes:
+![image](https://github.com/sino30535/DeepRL-minitaur/blob/master/misc/Avg_qmax_Value.svg)
+
+Total reward for each episode:
+![image](https://github.com/sino30535/DeepRL-minitaur/blob/master/misc/Reward.svg)

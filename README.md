@@ -1,2 +1,7 @@
 # DeepRL-minitaur
-Simulation robot control using deep deterministic policy gradient.
+DDPG demo for continuous control of gym environment of minitaur.
+
+# Installation
+See bullet3 github:
+https://github.com/bulletphysics/bullet3
+

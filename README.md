@@ -12,8 +12,6 @@ python minitaur_agent.py
 Before training:
 ![image](https://github.com/sino30535/DeepRL-minitaur/blob/master/misc/before_training.gif)
 
-<img src="https://github.com/sino30535/DeepRL-minitaur/blob/master/misc/before_training.gif" />
-
 After 1.5m steps
 ![image](https://github.com/sino30535/DeepRL-minitaur/blob/master/misc/after_training.gif)
 
